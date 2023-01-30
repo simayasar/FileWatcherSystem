@@ -1,0 +1,75 @@
+﻿Installing assembly 'D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\a\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
+Installing service MyWindowsService...
+Service MyWindowsService has been successfully installed.
+Creating EventLog source MyWindowsService in log Application...
+Committing assembly 'C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\OnesUser\Downloads\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+   logtoconsole = 
